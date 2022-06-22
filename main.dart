@@ -8,7 +8,7 @@ void main() {
       customer_number = 305,
       All_fruits = (Mangpo_Price + banana_price);
 
-  double Customer_per_frouits = (All_fruits / customer_number);
+  double Customer_per_fruits = (All_fruits / customer_number);
 
   bool UZZAL_BISWAS_IS_MALE = true;
 
